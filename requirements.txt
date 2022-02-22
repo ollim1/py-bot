@@ -18,7 +18,6 @@ pyOpenSSL==22.0.0
 pyparsing==3.0.7
 PySocks==1.7.1
 selenium==4.1.0
-selenium-wire==4.6.1
 sniffio==1.2.0
 sortedcontainers==2.4.0
 trio==0.20.0
