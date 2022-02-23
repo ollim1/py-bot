@@ -25,7 +25,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.l is None:
-        printf("no location specified")
+        print("no location specified")
         sys.exit()
     else:
         url = args.l
